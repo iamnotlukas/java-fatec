@@ -1,4 +1,2 @@
-# java-fatec
-# java-fatec
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotlukas&hide_progress=true)
+  <img width="120px" style="margin: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
